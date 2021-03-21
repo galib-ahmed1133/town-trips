@@ -1,0 +1,29 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+.link-style{
+    text-decoration: none  !important;
+    color: rgb(255, 255, 255);
+    padding: 0 15px;
+    font-size: 13px;
+}
+.Brand-logo{
+    font-weight: bolder;
+    font-size: 30px;
+    color: white !important;
+}
+.button{
+    padding: 5px 20px;
+    background-color: 	#00FF00;
+    margin-top: -5px;
+}
+.header-style{
+    background-color: #022626;
+}
+.link-style-name{
+    font-size: 18px;
+    text-decoration: none  !important;
+    color: rgb(255, 255, 255);
+    padding: 0 15px;
+    text-transform: uppercase;
+}

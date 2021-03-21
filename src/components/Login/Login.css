@@ -1,0 +1,39 @@
+.form-control {
+    display: block;
+    width: 100%;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border-bottom: 1px solid #00FF00;;
+}
+.Submit-Button{
+    width: 100%;
+    border-radius: 0%;
+    background-color: #00FF00;
+    border: 0;
+}
+.login-here a{
+    color: #00FF00;
+}
+.already-account {
+    text-align: center;
+}
+.sign-with-google{
+    text-align: center;
+    margin-top: 40px;
+}
+.sign-with-google h6{
+    border-bottom: 1px solid #b8bec4;
+}
+.Google-Facebook-btn{
+    width: 100%;
+    border-radius: 0%;
+    background-color: #ffffff;
+    border: 0;
+    color :#495057
+}

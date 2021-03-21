@@ -1,0 +1,5 @@
+[{"id":1,"rideType":"Bike","title":"BIKE","seats":2,"ticketPrice":200,"img":"https://i.ibb.co/NrYrf15/Bike.jpg"},
+    {"id":2,"rideType":"Car","title":"CAR","seats":4,"ticketPrice":500,"img":"https://i.ibb.co/XkvpqMB/Car.jpg"},
+    {"id":3,"rideType":"Bus","title":"BUS","seats":30,"ticketPrice":100,"img":"https://i.ibb.co/cLgxPVL/Bus.jpg"},
+    {"id":4,"rideType":"Train","title":"TRAIN","seats":100,"ticketPrice":50,"img":"https://i.ibb.co/Xbr7tm0/Train.jpg"}
+]

@@ -1,0 +1,8 @@
+.home{
+    background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),  url(https://i.ibb.co/93FDFCg/2677518.jpg) ;
+	background-position: 100% auto;
+    background-size: cover;
+	padding-top: 300px;
+	padding-bottom: 300px;
+
+}
